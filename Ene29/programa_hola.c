@@ -3,4 +3,5 @@ Esto es un comentario. Me sirve para escribir información relevante del program
 ejemplo:
 Este programa imprimirá la típica frase “hola mundo” a la pantalla
 Creado el 29/01/2025 por Gerardo 
+editado el 5/02/2025
 *\
