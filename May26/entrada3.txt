@@ -1,0 +1,3 @@
+5          # Factorial
+3.0 4.5    # Suma
+45         # Grados a radianes
